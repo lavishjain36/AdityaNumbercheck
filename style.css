@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:rgb(200, 252, 59)
+}
+
+
+#conatiner{
+    background-color:rgb(20, 116, 76);
+    border:2px solid white;
+    height: 270px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    color:rgb(144, 240, 243);
+}
+
+p{
+    color:whitesmoke;
+}
+
+
+label{
+
+    color: aquamarine;
+}
